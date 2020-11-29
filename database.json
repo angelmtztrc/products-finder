@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Keyboard",
+      "price": 323.2,
+      "status": "used",
+      "image": "https://images.unsplash.com/photo-1555532538-dcdbd01d373d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2031&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Xbox Controller",
+      "price": 423.2,
+      "status": "new",
+      "image": "https://images.unsplash.com/photo-1573215193469-e0b7a554873a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Mouse Gaming",
+      "price": 123.2,
+      "status": "used",
+      "image": "https://images.unsplash.com/photo-1593108408993-58ee9c7825c2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Xbox",
+      "price": 323.2,
+      "status": "new",
+      "image": "https://images.unsplash.com/photo-1604586362304-e75dda43b915?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 5,
+      "name": "MAC",
+      "price": 523.2,
+      "status": "used",
+      "image": "https://images.unsplash.com/photo-1578950435899-d1c1bf932ab2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=675&q=80"
+    },
+    {
+      "id": 5,
+      "name": "iPhone",
+      "price": 523.2,
+      "status": "new",
+      "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80"
+    }
+  ]
+}
